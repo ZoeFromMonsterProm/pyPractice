@@ -4,4 +4,5 @@ def combi(*num):
         ans = ans*x
     return(ans)
 
-print(combi(3,7,4))
+
+print(20+10)
